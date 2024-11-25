@@ -13,5 +13,5 @@ Contents of this Repo:
 b) Five script files</br>
 c) One readme file</br>
 You have to use automation.vbs and Autoruntask.vbs in task scheduler.The automation.vbs file will call automation_file.bat which is used for downloading audio from the link.
-The Autoruntask.vbs will call the Autoruntask.bat every 5 minutes(excluding time 11:50pm and 12:05am), it wil inspect and restart the audio recording if it has failed.
+The Autoruntask.vbs will call the Autoruntask.bat every 5 minutes(excluding the time between 11:50pm and 12:05am), it wil inspect and restart the audio recording if it has failed.
 Both the vbs scripts are used to make sure no console window is shown.
