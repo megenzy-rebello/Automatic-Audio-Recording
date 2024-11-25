@@ -8,3 +8,7 @@ audio recording task from Windows Task Scheduler. If the internet connection was
 would wait until the internet connectivity was back and then run the audio recording task from
 Windows Task Scheduler.</br>
 
+Contents of this Repo:
+a) Two PNG files having the flowchart explanation of my project
+b) Five script files 
+c) One readme file
