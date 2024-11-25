@@ -8,11 +8,10 @@ audio recording task from Windows Task Scheduler. If the internet connection was
 would wait until the internet connectivity was back and then run the audio recording task from
 Windows Task Scheduler.</br>
 
-Contents of this Repo:<br>
-a) Two PNG files having the flowchart explanation of my project</br><br>
-b) Five script files</br><br>
-c) One readme file</br>
-<br>
-You have to use automation.vbs and Autoruntask.vbs in task scheduler.The automation.vbs file will call automation_file.bat which is used for downloading audio from the link.
+Contents of this Repo:
+<br>a) Two PNG files having the flowchart explanation of my project</br>
+<br>b) Five script files</br>
+<br>c) One readme file</br>
+<br>You have to use automation.vbs and Autoruntask.vbs in task scheduler.The automation.vbs file will call automation_file.bat which is used for downloading audio from the link.
 The Autoruntask.vbs will call the Autoruntask.bat and wil inspect and restart the audio recording if it failed.
 Both the vbs scripts are used to make sure no console window is shown.</br>
